@@ -1,9 +1,6 @@
 name: solr
 title: Solr
 icon: solr
-operators:
-- stack: solr-operator
-  version: '9.5.0'
 
 services:
 - name: solr
