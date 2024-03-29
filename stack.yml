@@ -6,3 +6,6 @@ services:
 - name: solr
   title: Solr
   service: solr
+  operators:
+  - name: operator
+    stack: solr-operator
