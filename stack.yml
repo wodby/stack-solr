@@ -3,6 +3,9 @@ title: Solr
 icon: solr
 
 services:
+- name: zookeeper
+  title: ZooKeeper
+  service: zookeeper
 - name: solr
   title: Solr
   service: solr
