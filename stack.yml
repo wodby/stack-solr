@@ -1,6 +1,7 @@
 name: solr
 title: Solr
 icon: solr
+docs: https://wodby.com/docs/2.0/stacks/catalog/solr/
 
 services:
 - name: solr
